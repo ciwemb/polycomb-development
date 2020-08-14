@@ -1,0 +1,8 @@
+sample	filename	condition	tissue	age	batch
+Luc1	LucGLKD1.htseq	luc	young_ovary	6hr	5.18.16
+Luc2	LucGLKD2.htseq	luc	young_ovary	6hr	5.18.16
+Luc3	LucGLKD3.htseq	luc	young_ovary	6hr	5.18.16
+Ez1	EzGLKD1.htseq	Ez	young_ovary	6hr	5.18.16
+Ez2	EzGLKD2.htseq	Ez	young_ovary	6hr	5.18.16
+Ez3	EzGLKD3.htseq	Ez	young_ovary	6hr	5.18.16
+

@@ -1,0 +1,7 @@
+sample	filename	condition	tissue	age	batch
+w1	wGLKD1.htseq	w	whole_ovary	4d	8.15.19
+w2	wGLKD2.htseq	w	whole_ovary	4d	8.15.19
+w3	wGLKD3.htseq	w	whole_ovary	4d	8.15.19
+sce1	sceGLKD1.htseq	sce	whole_ovary	4d	8.15.19
+sce2	sceGLKD2.htseq	sce	whole_ovary	4d	8.15.19
+sce3	sceGLKD3.htseq	sce	whole_ovary	4d	8.15.19

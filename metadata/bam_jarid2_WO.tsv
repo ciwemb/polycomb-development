@@ -1,0 +1,10 @@
+sample	filename	condition	tissue	age	batch
+bam4	bam4.htseq	none	bam_ovary	bam	8.9.18
+bam5	bam5.htseq	none	bam_ovary	bam	8.9.18
+bam6	bam6.htseq	none	bam_ovary	bam	8.9.18
+bam7	bam7.htseq	none	bam_ovary	bam	3.6.19
+bam8	bam8.htseq	none	bam_ovary	bam	3.6.19
+bam9	bam9.htseq	none	bam_ovary	bam	3.6.19
+w1	jarid2GLKD1.htseq	jarid2RNAi	whole_ovary	4d	4.15.19
+w2	jarid2GLKD2.htseq	jarid2RNAi	whole_ovary	4d	4.15.19
+w3	jarid2GLKD3.htseq	jarid2RNAi	whole_ovary	4d	4.15.19
